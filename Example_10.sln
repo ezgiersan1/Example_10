@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotateText", "RotateText\RotateText.csproj", "{09789EAA-3BBC-4D64-A0ED-A39A54B23EEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityNumber", "IdentityNumber\IdentityNumber.csproj", "{B25E4653-AC21-48D6-914C-61F3F28CFE9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunTimeControls", "RunTimeControls\RunTimeControls.csproj", "{2DB24357-2CC1-4E4F-81F5-91230DF60FD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FillColors", "FillColors\FillColors.csproj", "{38AD918F-AB18-4336-85F5-E51828DFDF54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09789EAA-3BBC-4D64-A0ED-A39A54B23EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09789EAA-3BBC-4D64-A0ED-A39A54B23EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09789EAA-3BBC-4D64-A0ED-A39A54B23EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09789EAA-3BBC-4D64-A0ED-A39A54B23EEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B25E4653-AC21-48D6-914C-61F3F28CFE9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B25E4653-AC21-48D6-914C-61F3F28CFE9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B25E4653-AC21-48D6-914C-61F3F28CFE9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B25E4653-AC21-48D6-914C-61F3F28CFE9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DB24357-2CC1-4E4F-81F5-91230DF60FD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DB24357-2CC1-4E4F-81F5-91230DF60FD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DB24357-2CC1-4E4F-81F5-91230DF60FD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DB24357-2CC1-4E4F-81F5-91230DF60FD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38AD918F-AB18-4336-85F5-E51828DFDF54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38AD918F-AB18-4336-85F5-E51828DFDF54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38AD918F-AB18-4336-85F5-E51828DFDF54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38AD918F-AB18-4336-85F5-E51828DFDF54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B62302E-0ECE-4743-BED8-79D6C85294DC}
+	EndGlobalSection
+EndGlobal
